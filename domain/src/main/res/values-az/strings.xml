@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hikmətli sözlər</string>
+    <string name="change_language">Dili dəyiş</string>
+    <string name="lang_azerbaijan">Azərbaycanca</string>
+    <string name="lang_english">İngiliscə</string>
+    <string name="lang_turkish">Türkcə</string>
+    <string name="lang_russian">Rusca</string>
+</resources>

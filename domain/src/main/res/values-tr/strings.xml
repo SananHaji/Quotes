@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Özlü sözler</string>
+    <string name="change_language">Dili değiştir</string>
+    <string name="lang_azerbaijan">Azerbaycanca</string>
+    <string name="lang_english">İngilizce</string>
+    <string name="lang_turkish">Türkçe</string>
+    <string name="lang_russian">Rusça</string>
+</resources>

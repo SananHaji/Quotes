@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Цитаты</string>
+    <string name="change_language">Изменить язык</string>
+    <string name="lang_azerbaijan">Азербайджанский</string>
+    <string name="lang_english">Английский</string>
+    <string name="lang_turkish">Турецкий</string>
+    <string name="lang_russian">Русский</string>
+
+</resources>

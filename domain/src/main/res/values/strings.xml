@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotes</string>
+    <string name="change_language">Change language</string>
+    <string name="lang_azerbaijan">Azerbaijani</string>
+    <string name="lang_english">English</string>
+    <string name="lang_turkish">Turkish</string>
+    <string name="lang_russian">Russian</string>
+</resources>
